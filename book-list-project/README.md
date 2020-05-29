@@ -1,5 +1,7 @@
 <h3>Project Overview<h3>
 
+<p>use context-api and hooks</p>
+
 <img src="./overview.PNG">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
